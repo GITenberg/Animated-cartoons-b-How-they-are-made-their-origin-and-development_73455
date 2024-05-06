@@ -1,0 +1,36 @@
+_repo: Animated-cartoons-b-How-they-are-made-their-origin-and-development_73455
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lutz, Edwin George
+    alias: Lutz, E. G. (Edwin George)
+    birthdate: 1868
+    deathdate: 1951
+    gutenberg_agent_id: '57078'
+    url: http://www.gutenberg.org/2009/agents/57078
+    wikipedia: https://en.wikipedia.org/wiki/Edwin_George_Lutz
+description: ''
+gutenberg_issued: '2024-04-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73455'
+  lccn: '20003350'
+language: en
+pgterms:marc904: https://archive.org/details/animatedcartoons00lutz/page/n7/mode/2up
+pgterms:marc905: 20231117072244lutz
+pgterms:marc906: '1920'
+pgterms:marc907: us
+production_note: Gísli Valgeirsson, A. Marshall and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aNew York :$bCharles Scribner''s Sons, $c1920.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Animation (Cinematography)'
+- !lcsh 'Animated films'
+- !lcc 'NC'
+- GITenberg
+title: 'Animated cartoons : $b How they are made, their origin and development'
+url: http://www.gutenberg.org/ebooks/73455
