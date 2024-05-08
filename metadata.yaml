@@ -1,5 +1,8 @@
 _repo: Animated-cartoons-b-How-they-are-made-their-origin-and-development_73455
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73455-h/images/cover.jpg
 creator:
   author:
     agent_name: Lutz, Edwin George
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/57078
     wikipedia: https://en.wikipedia.org/wiki/Edwin_George_Lutz
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73455#Animated-cartoons-b-How-they-are-made-their-origin-and-development
 gutenberg_issued: '2024-04-24'
 gutenberg_type: Text
 identifiers:
